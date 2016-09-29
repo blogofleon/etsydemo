@@ -17,7 +17,7 @@ gem 'coffee-rails', '~> 4.1.0'
 gem 'coffee-script-source', '1.8.0'
 
 gem "paperclip", "~> 5.0.0"
-
+gem "devise"
 
 group :production do
   gem 'pg'
